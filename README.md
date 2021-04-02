@@ -41,7 +41,12 @@ Esse Projeto está sob a licença MIT. Veja o Arquivo [LICENSE](.github/LICENSE.
 
 Feito com 💖 by Pedro Duarte
 
-[![Instagram Badge](https://img.shields.io/badge/@pduartesilva2005%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white")](https://twitter.com/PedroPDuarte1) 
-[![Twitter Badge](https://img.shields.io/badge/-@PedroPDuarte1-1ca0f1?style=for-the-bafge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PedroPDuarte1)](https://twitter.com/PedroPDuarte1) 
-[![ROCKETSEAT](https://img.shields.io/badge/%20Rocketseat-black?style=for-the-bafge&)](https://app.rocketseat.com.br/me/pedropduarte2005)
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Duarte-blue?style=for-the-bafge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedropduarte2005/)](https://www.linkedin.com/in/pedropduarte2005/) 
+<a href="https://instagram.com/pduartesilva2005">
+  <img alt="Instagram" src="https://img.shields.io/badge/@pduartesilva2005%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://twitter.com/PedroPDuarte1">
+  <img alt="Twitter" src="https://img.shields.io/badge/@PedroPDuarte1%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/pedropduarte2005/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/Pedro%20Duarte-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
