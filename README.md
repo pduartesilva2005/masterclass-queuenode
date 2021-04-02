@@ -34,10 +34,14 @@ Esse Projeto está sob a licença MIT. Veja o Arquivo [LICENSE](.github/LICENSE.
 
 ---
 
+<a href="https://app.rocketseat.com.br/me/pedropduarte2005">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/59842901?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Pedro Duarte</b></sub></a> <a href="https://app.rocketseat.com.br/me/pedropduarte2005" title="Rocketseat">🚀</a>
+
 Feito com 💖 by Pedro Duarte
 
-### Me siga nas redes socias
-- [Instagram](https://instagram.com/pduartesilva2005)
-- [Twitter](https://twitter.com/PedroPDuarte1)
-- [Rocketseat](https://app.rocketseat.com.br/me/pedropduarte2005)
-- [LinkedIn](https://www.linkedin.com/in/pedro-duarte-2005/)
+[![Instagram Badge](https://img.shields.io/badge/@pduartesilva2005%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white")](https://twitter.com/PedroPDuarte1) 
+[![Twitter Badge](https://img.shields.io/badge/-@PedroPDuarte1-1ca0f1?style=for-the-bafge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PedroPDuarte1)](https://twitter.com/PedroPDuarte1) 
+[![ROCKETSEAT](https://img.shields.io/badge/%20Rocketseat-black?style=for-the-bafge&)](https://app.rocketseat.com.br/me/pedropduarte2005)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Duarte-blue?style=for-the-bafge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedropduarte2005/)](https://www.linkedin.com/in/pedropduarte2005/) 
