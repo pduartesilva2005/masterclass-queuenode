@@ -13,7 +13,7 @@ QueueNode é uma API que trabalha com Background Jobs (filas) utilizando Node.js
 
 ## 🔥 Como Começar
 
-- 1 - Faça um clone desse repositório `git clone https://github.com/pedroduarte2005/masterclass-queuenode.git`;
+- 1 - Faça um clone desse repositório `git clone https://github.com/pduartesilva2005/masterclass-queuenode.git`;
 - 2 - Entre na pasta `cd masterclass-queuenode`;
 - 3 - Rode `yarn` para instalar as depenências;
 - 4 - Copie o arquivo `.env.example` e crie um arquivo `.env` com as credenciais de email e do Redis; 
